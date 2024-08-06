@@ -47,26 +47,19 @@
 
 - Less reliance on printed materials, saving costs and being environmentally friendly.
 As technology continues to advance, QR codes have become a popular choice for event management due to their simplicity and convenience. They enhance the overall event experience for both organizers and attendees..
+## About System
 
-### Name of Project:
- Event Registration System with QR Code
+* Name of Project: Event Registration System with QR Code
 
-### Language Used: 
-PHP
+* Language Used: PHP
 
-### Database Used:
-MySQL
+* Database Used: MySQL
 
-### Design Interface: 
-Bootstrap JavaScript, HTML, Ajax, JQuery,
+* Design Interface: Bootstrap JavaScript, HTML, Ajax, JQuery,
 
-### Browser: 
-Opera, Mozilla Google Chrome, Safari
+* Browser: Opera, Mozilla Google Chrome, Safari
 
-### Software:
- WAMPP/ XAMPP/ LAMP/MAMP
-
-# About System
+* Software: WAMPP/ XAMPP/ LAMP/ MAMP
 
 ### How to setup this project
 
