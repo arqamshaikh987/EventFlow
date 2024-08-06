@@ -94,8 +94,9 @@ As technology continues to advance, QR codes have become a popular choice for ev
 ![demo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5XN_DgzBWeFXpmE42GxkaeD5CqgOd_mgCGJMFk03aZEuLo7pJCZgtQwBgXbCjfUjlNiWpsY1FioA1YOKY7TtDu0cywHGcS-RH3E6LbS7QVIQ21_AiC98j7P-Sf0UA4JQGGOUBYUHpAaiSzC_usg4Ps4c3wHaFSluqnhrbgVWUrwKbigUJGu3Wn4oSL1St/s16000/Captures.PNG)
 
 
-- ### Disease Detection system
-![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
+- ### Mobile Side QR Code Scanning Page
+
+![demo](https://www.sourcecodester.com/sites/default/files/images/oretnom23/mobile_qr_scan.png)
 
 
 
